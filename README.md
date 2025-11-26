@@ -10,7 +10,7 @@
 
 ## 🚗 About DriveVitals
 
-DriveVitals transforms your Android device into a powerful automotive dashboard, connecting to your vehicle's OBD-II port to provide real-time metrics and basic diagnostics. Whether you're a car enthusiast wanting to monitor your engine's vital statistics or a DIY mechanic diagnosing issues, CarDash offers an intuitive interface for viewing your vehicle's data.
+DriveVitals transforms your Android device into a powerful automotive dashboard, connecting to your vehicle's OBD-II port to provide real-time metrics and basic diagnostics. Whether you're a car enthusiast wanting to monitor your engine's vital statistics or a DIY mechanic diagnosing issues, DriveVitals offers an intuitive interface for viewing your vehicle's data.
 
 ## 🔒 Privacy First
 
